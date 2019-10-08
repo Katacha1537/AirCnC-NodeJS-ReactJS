@@ -1,13 +1,13 @@
 # AirCnC-NodeJS-ReactJS
 
 <p align = "center">
-  <img src = "mobile/src/assets/logo@3x.png" />
+  <img src = "https://github.com/daltonmenezes/aircnc/raw/master/mobile/src/assets/logo@3x.png" />
 </p>
 
 <p align = "center">
 O Airbnb gosta (Air Coffee & Code) de reservar vagas para desenvolvedores.
 
-<img src = "banner.png" alt = "banner do projeto" />
+<img src = "https://github.com/daltonmenezes/aircnc/raw/master/banner.png" alt = "banner do projeto" />
 
 > Este projeto foi feito apenas para fins de estudo e vem do curso intensivo # 9ª semana de OmniStack, com minhas próprias modificações e com um pequena implementação de realTime no web
 </p> <br/>
