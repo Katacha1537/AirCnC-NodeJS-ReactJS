@@ -9,7 +9,7 @@ O Airbnb gosta (Air Coffee & Code) de reservar vagas para desenvolvedores.
 
 <img src = "https://github.com/daltonmenezes/aircnc/raw/master/banner.png" alt = "banner do projeto" />
 
-> Este projeto foi feito apenas para fins de estudo e vem do curso intensivo # 9ª semana de OmniStack, com minhas próprias modificações e com um pequena implementação de realTime no web
+> Este projeto foi feito apenas para fins de estudo e vem do curso intensivo 9ª semana de OmniStack, com minhas próprias modificações e com um pequena implementação de realTime no web
 </p> <br/>
 
 </p>
