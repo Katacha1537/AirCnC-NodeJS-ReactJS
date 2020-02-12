@@ -5,7 +5,7 @@
 </p>
 
 <p align = "center">
-O Airbnb gosta (Air Coffee & Code) de reservar vagas para desenvolvedores.
+O Aircnc gosta (Air Coffee & Code) de reservar vagas para desenvolvedores.
 
 <img src = "https://github.com/daltonmenezes/aircnc/raw/master/banner.png" alt = "banner do projeto" />
 
